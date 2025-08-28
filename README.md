@@ -1,6 +1,3 @@
-🔥 Got it! Here’s a clean, professional, copy-paste ready README.md for your GitHub repo:
-SOHO Firewall NAT PAT ACL DNS Spoof DHCP Port Forwarding LAB2
-I'll also walk you through exactly where and how to drop it in GitHub.
 📡 SOHO Firewall: NAT • PAT • ACL • DNS Spoof • DHCP • Port Forwarding (LAB2)
 
 This lab simulates a secure SOHO (Small Office/Home Office) network with firewall features like NAT, PAT, ACLs, DNS spoof detection, DHCP IP assignment, and port forwarding. It builds directly on LAB1 (Ping, HTTP, HTTPS) and continues training in real-world packet logic.
